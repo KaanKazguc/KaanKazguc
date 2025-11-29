@@ -1,14 +1,14 @@
 <div align="right">
-  <a href="README_EN.md">
+  <a href="README.md">
     Türkçe Oku
   </a>
 </div>
 
-<div align="center">
+
 
 # 👋 Hello! I am Kaan
 
-</div>
+
 
 ### 🎓 New Graduate | Data Science & Artificial Intelligence Enthusiast
 

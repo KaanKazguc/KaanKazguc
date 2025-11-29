@@ -4,11 +4,11 @@
   </a>
 </div>
 
-<div align="center">
+
 
 # 👋 Merhaba! Ben Kaan
 
-</div>
+
 
 ### 🎓 Yeni Mezun |  Veri Bilimi & Yapay Zeka Meraklısı
 
