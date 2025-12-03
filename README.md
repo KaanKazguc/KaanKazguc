@@ -15,7 +15,7 @@
 
 ---
 
-Veri dünyasının derinliklerini keşfetmeye hevesli, yeni mezun bir mühendisim. **Veri Bilimi** ve **Yapay Zeka** alanlarında ilgi duyur ve bu doğrultuda çalışıyorum. Sürekli öğrenme mottosuyla kendimi geliştirmeye ve yeni teknolojileri deneyimlemeye odaklanmış durumdayım.
+Veri dünyasının derinliklerini keşfetmeye hevesli, yeni mezun bir mühendisim. **Veri Bilimi** ve **Yapay Zeka** alanlarında ilgi duyuyor ve bu doğrultuda çalışıyorum. Sürekli öğrenme mottosuyla kendimi geliştirmeye ve yeni teknolojileri deneyimlemeye odaklanmış durumdayım.
 
 ---
 <p align="center">
