@@ -15,7 +15,7 @@
 
 ---
 
-I'm a recent engineer graduate eager to explore the depths of the data world. I'm interested in and working in the fields of **Data Science** and **Artificial Intelligence**. With a commitment to continuous learning, I'm focused on self-improvement and experimenting with new technologies.
+I'm a recent engineering graduate eager to explore the world of data. I'm interested in and working in the fields of **Data Science** and **Artificial Intelligence**. With a commitment to continuous learning, I'm focused on self-improvement and experimenting with new technologies.
 
 ---
 <p align="center">
@@ -38,10 +38,10 @@ I'm a recent engineer graduate eager to explore the depths of the data world. I'
 ### 🛠️ Languages ​​and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
 <p> </p>
