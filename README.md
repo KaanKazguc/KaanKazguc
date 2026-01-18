@@ -42,6 +42,7 @@ Veri dünyasının derinliklerini keşfetmeye hevesli, yeni mezun bir mühendisi
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 <p> </p>
@@ -52,6 +53,7 @@ Veri dünyasının derinliklerini keşfetmeye hevesli, yeni mezun bir mühendisi
   
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4c4cff?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
@@ -64,7 +66,6 @@ Veri dünyasının derinliklerini keşfetmeye hevesli, yeni mezun bir mühendisi
 
   <img src="https://img.shields.io/badge/NLTK-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
